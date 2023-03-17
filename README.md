@@ -224,26 +224,26 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 
-[Node.js]: https://img.shields.io/badge/Node.js-text-339933?style=for-the-badge&logo=Node.js
+[Node.js]: https://img.shields.io/badge/Node.js-V.1.0.0-339933?style=for-the-badge&logo=Node.js
 [Node-url]: https://nodejs.org/en
 
-[Ejs]: https://img.shields.io/badge/Ember.js-text-E04E39?style=for-the-badge&logo=Ember.js
+[Ejs]: https://img.shields.io/badge/Ember.js-V.3.1.9-E04E39?style=for-the-badge&logo=Ember.js
 [Ejs-url]: https://ejs.co/
 
-[Express.js]: https://img.shields.io/badge/ExpressVPN-text-DA3940?style=for-the-badge&logo=ExpressVPN
+[Express.js]: https://img.shields.io/badge/ExpressVPN-V.1.17.3-DA3940?style=for-the-badge&logo=ExpressVPN
 [Express-url]: https://expressjs.com/
 
-[BOOTSTRAP]: https://img.shields.io/badge/Bootstrap-text-7952B3?style=for-the-badge&logo=Bootstrap
+[BOOTSTRAP]: https://img.shields.io/badge/Bootstrap-V.5.3.0-7952B3?style=for-the-badge&logo=Bootstrap
 [BOOTSTRAP-url]: https://angular.io/
 
-[MongoDB]: https://img.shields.io/badge/MongoDB-text-47A248?style=for-the-badge&logo=MongoDB
+[MongoDB]: https://img.shields.io/badge/MongoDB-V.6.0-47A248?style=for-the-badge&logo=MongoDB
 [MongoDB-url]: https://www.mongodb.com/
 
-[HTML]: https://img.shields.io/badge/HTML5-text-E34F26?style=for-the-badge&logo=HTML5
+[HTML]: https://img.shields.io/badge/HTML5-V.5-E34F26?style=for-the-badge&logo=HTML5
 [HTML-url]: https://www.w3schools.com/html/
 
-[JavaScript]: https://img.shields.io/badge/JavaScript-text-F7DF1E?style=for-the-badge&logo=JavaScript
+[JavaScript]: https://img.shields.io/badge/JavaScript-V.4.7-F7DF1E?style=for-the-badge&logo=JavaScript
 [JavaScript-url]: https://www.javascript.com/
 
-[CSS]: https://img.shields.io/badge/CSS3-text-1572B6?style=for-the-badge&logo=CSS3
+[CSS]: https://img.shields.io/badge/CSS3-V.3-1572B6?style=for-the-badge&logo=CSS3
 [CSS-url]: https://www.w3schools.com/css/css_website_layout.asp
