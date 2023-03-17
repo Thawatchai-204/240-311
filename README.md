@@ -254,7 +254,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [product-screenshot]: images/screenshot.png
 [Node.js]: https://drive.google.com/file/d/1ROYv-actDSR8PQTs5512jcayy6Ygc5qF/view?usp=sharing
 [Node-url]: https://nodejs.org/en
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React.js]: https://drive.google.com/file/d/1ROYv-actDSR8PQTs5512jcayy6Ygc5qF/view?usp=sharing
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
