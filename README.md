@@ -256,7 +256,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Node.js]: https://img.shields.io/badge/Node.js-text-339933?style=for-the-badge&logo=Node.js
 [Node-url]: https://nodejs.org/en
 
-[Node.js]: https://img.shields.io/badge/Node.js-text-339933?style=for-the-badge&logo=Node.js
+[Ejs]: https://img.shields.io/badge/Ember.js-text-E04E39?style=for-the-badge&logo=Ember.js
 [Ejs-url]: https://ejs.co/
 
 [Express.js]: https://img.shields.io/badge/ExpressVPN-text-DA3940?style=for-the-badge&logo=ExpressVPN
