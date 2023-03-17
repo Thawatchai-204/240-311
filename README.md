@@ -253,26 +253,26 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 
-[Node.js]: https://img.shields.io/badge/Node.js-text-#339933?style=for-the-badge&logo=Node.js
+[Node.js]: https://img.shields.io/badge/Node.js-text-339933?style=for-the-badge&logo=Node.js
 [Node-url]: https://nodejs.org/en
 
-[Ejs]: https://ucarecdn.com/4158cbc0-d54b-4d74-a74f-b8827fd15378/
+[Node.js]: https://img.shields.io/badge/Node.js-text-339933?style=for-the-badge&logo=Node.js
 [Ejs-url]: https://ejs.co/
 
-[Express.js]: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/120px-Expressjs.png
+[Express.js]: https://img.shields.io/badge/ExpressVPN-text-DA3940?style=for-the-badge&logo=ExpressVPN
 [Express-url]: https://expressjs.com/
 
-[BOOTSTRAP]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[BOOTSTRAP]: https://img.shields.io/badge/Bootstrap-text-7952B3?style=for-the-badge&logo=Bootstrap
 [BOOTSTRAP-url]: https://angular.io/
 
-[MongoDB]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[MongoDB]: https://img.shields.io/badge/MongoDB-text-47A248?style=for-the-badge&logo=MongoDB
 [MongoDB-url]: https://www.mongodb.com/
 
-[HTML]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[HTML]: https://img.shields.io/badge/HTML5-text-E34F26?style=for-the-badge&logo=HTML5
 [HTML-url]: https://www.w3schools.com/html/
 
-[JavaScript]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[JavaScript]: https://img.shields.io/badge/JavaScript-text-F7DF1E?style=for-the-badge&logo=JavaScript
 [JavaScript-url]: https://www.javascript.com/
 
-[CSS]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[CSS]: https://img.shields.io/badge/CSS3-text-1572B6?style=for-the-badge&logo=CSS3
 [CSS-url]: https://www.w3schools.com/css/css_website_layout.asp
