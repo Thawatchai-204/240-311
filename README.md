@@ -1,4 +1,5 @@
-Project name and description \n
+Project name and description
+BookShop Website
 Installation instructions
 Usage examples
 Configuration details
