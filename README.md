@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Thawatchai-204/240-311">
-    <img src="images/logo_readme.png" alt="Logo" width="80" height="80">
+    <img src="images/logo_readme.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Book Shop Website</h3>
