@@ -252,7 +252,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[Node.js]: https://drive.google.com/file/d/1ROYv-actDSR8PQTs5512jcayy6Ygc5qF/view?usp=sharing
+[Node.js]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/120px-Node.js_logo.svg.png
 [Node-url]: https://nodejs.org/en
 [React.js]: https://drive.google.com/file/d/1ROYv-actDSR8PQTs5512jcayy6Ygc5qF/view?usp=sharing
 [React-url]: https://reactjs.org/
