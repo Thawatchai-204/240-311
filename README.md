@@ -1,4 +1,4 @@
-Project name and description
+Project name and description \n
 Installation instructions
 Usage examples
 Configuration details
