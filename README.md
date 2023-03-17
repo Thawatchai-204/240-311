@@ -105,13 +105,13 @@ Use the `BLANK_README.md` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Node][Node.js]][Node-url]
-* [![React][React.js]][React-url]
+* [![Ejs][Ejs]][Ejs-url]
 * [![Express][Express.js]][Express-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![BOOTSTRAP][BOOTSTRAP]][BOOTSTRAP-url]
+* [![MongoDB][MongoDB]][MongoDB-url]
+* [![HTML][HTML]][HTML-url]
+* [![JavaScript][JavaScript]][JavaScript-url]
+* [![CSS][CSS]][CSS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,19 +255,23 @@ Use this space to list resources you find helpful and would like to give credit 
 [Node.js]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/120px-Node.js_logo.svg.png
 [Node-url]: https://nodejs.org/en
 
-[React.js]: https://drive.google.com/file/d/1ROYv-actDSR8PQTs5512jcayy6Ygc5qF/view?usp=sharing
-[React-url]: https://reactjs.org/
+[Ejs]: https://ucarecdn.com/4158cbc0-d54b-4d74-a74f-b8827fd15378/
+[Ejs-url]: https://ejs.co/
 
-[Express.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Express-url]: https://vuejs.org/
+[Express.js]: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/120px-Expressjs.png
+[Express-url]: https://expressjs.com/
 
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[BOOTSTRAP]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[BOOTSTRAP-url]: https://angular.io/
+
+[MongoDB]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[MongoDB-url]: https://www.mongodb.com/
+
+[HTML]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[HTML-url]: https://www.w3schools.com/html/
+
+[JavaScript]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[JavaScript-url]: https://www.javascript.com/
+
+[CSS]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[CSS-url]: https://www.w3schools.com/css/css_website_layout.asp
