@@ -65,12 +65,12 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- Component of Code -->
 ## Component of Code
 
 *models
--product.js //เป็นการเชือมไปยัง MongoDB  เพื่อใช้เก็บ Schema เก็บข้อมูลต่างๆคือ 
+
+-product.js เป็นการเชือมไปยัง MongoDB  เพื่อใช้เก็บ Schema เก็บข้อมูลต่างๆคือ 
 ข้อมูล name,price,image,description และส่งออกสำหรับบันทึกข้อมูล
 
 ### Prerequisites
