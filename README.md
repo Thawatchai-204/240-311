@@ -53,8 +53,6 @@
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![Node][Node.js]][Node-url]
 * [![Ejs][Ejs]][Ejs-url]
 * [![Express][Express.js]][Express-url]
