@@ -21,7 +21,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Component of Code</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -66,11 +66,12 @@
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- Component of Code -->
+## Component of Code
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+*models
+-product.js //เป็นการเชือมไปยัง MongoDB  เพื่อใช้เก็บ Schema เก็บข้อมูลต่างๆคือ 
+ข้อมูล name,price,image,description และส่งออกสำหรับบันทึกข้อมูล
 
 ### Prerequisites
 
