@@ -74,12 +74,15 @@ product.js เป็นการเชือมไปยัง MongoDB  เพ�
 ข้อมูล name,price,image,description และส่งออกสำหรับบันทึกข้อมูล
 
 ### public
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* CSS
+    ```sh
+ใช้สำหรับตกแต่งไฟล์ ejs ให้มีความสวยงามมากขึ้น
+* image
+    ```sh
+เก็บไฟล์รูปภาพต่างๆ
+* js
+    ```sh
+เก็บไฟล์ bootstrap jquery popper
 
 ### Installation
 
