@@ -25,9 +25,9 @@
       <ul>
         <li><a href="#public">public</a></li>
         <li><a href="#routes">routes</a></li>
+        <li><a href="#Admin-page">Admin page</a></li>
       </ul>
     </li>
-    <li><a href="#Admin-page">Admin page</a></li>
     <li><a href="#link-project">link project</a></li>
     <li><a href="#Views">Views</a></li>
     <li><a href="#Member-in-group">Member in group</a></li>
