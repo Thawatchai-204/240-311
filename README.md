@@ -43,6 +43,12 @@
 โดยเริ่มแรกให้ user login เข้าสู่ระบบสมาชิกในหน้าเว็บไซต์ เพื่อเข้าดูเลือกซื้อหนังสือภายในเว็บไซต์
 โดยถ้าผู้ใช้จะทำการสั่งซื้อหนังสือก็ทำการกดปุ่มเพื่อสั่งซื้อหนังสือไปในตะกร้า
 
+
+ * link vidio demo project
+ 
+ https://www.youtube.com/watch?v=G7lnPJSxQKI
+ 
+ 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
