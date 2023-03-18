@@ -28,6 +28,7 @@
       </ul>
     </li>
     <li><a href="#Admin-page">Admin page</a></li>
+    <li><a href="#link-project">link project</a></li>
     <li><a href="#Views">Views</a></li>
     <li><a href="#Member-in-group">Member in group</a></li>
   </ol>
@@ -43,10 +44,6 @@
 โดยเริ่มแรกให้ user login เข้าสู่ระบบสมาชิกในหน้าเว็บไซต์ เพื่อเข้าดูเลือกซื้อหนังสือภายในเว็บไซต์
 โดยถ้าผู้ใช้จะทำการสั่งซื้อหนังสือก็ทำการกดปุ่มเพื่อสั่งซื้อหนังสือไปในตะกร้า
 
-
- * link vidio demo project
- 
- https://www.youtube.com/watch?v=G7lnPJSxQKI
  
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -135,6 +132,16 @@ router '/insert'      เพื่อเป็นการบันทึกข�
 * slideshow.ejs เป็นสไลด์เลื่อนด้าบนของเว็ปไซต์
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- link-project -->
+##  link-project
+* link vidio demo project
+ 
+ https://www.youtube.com/watch?v=G7lnPJSxQKI
+ 
+*  link git repository
+
+
 
 
 <!-- Member in group -->
