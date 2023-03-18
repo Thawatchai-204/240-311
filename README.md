@@ -21,15 +21,15 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Component of Code</a>
+      <a href="#Component-of-Code">Component of Code</a>
       <ul>
-        <li><a href="#prerequisites">public</a></li>
-        <li><a href="#installation">routes</a></li>
+        <li><a href="#public">public</a></li>
+        <li><a href="#routes">routes</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Admin page</a></li>
-    <li><a href="#contributing">Views</a></li>
-    <li><a href="#contact">Member in group</a></li>
+    <li><a href="#Admin-page">Admin page</a></li>
+    <li><a href="#Views">Views</a></li>
+    <li><a href="#Member-in-group">Member in group</a></li>
   </ol>
 </details>
 
